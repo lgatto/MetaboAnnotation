@@ -37,7 +37,8 @@ Suggests:
     testthat,
     knitr,
     msdata,
-    BiocStyle
+    BiocStyle,
+    rmarkdown
 Remotes:
     RforMassSpectrometry/MsCoreUtils,
     RforMassSpectrometry/MetaboCoreUtils,
